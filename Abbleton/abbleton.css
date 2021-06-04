@@ -11,3 +11,11 @@ body {
     margin: 0px 160px 0px 160px;
     background-color: white;
 }
+
+.page-about_header {
+    height: 1000px;
+    width: 1000px;
+    background-image: url("img/header.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
